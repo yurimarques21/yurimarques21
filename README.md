@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yurimarques21/yurimarques21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Yuri Marques!
 
-Here are some ideas to get you started:
+### 💻 Estudante de ADS | Desenvolvimento Web • Automação • QA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web;Qualidade+de+Software;Automação+de+Processos;Testes+e+Tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing Animation" />
+
+<br>
+
+<a href="https://github.com/yurimarques">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yuri-marques1">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória profissional na área de Tecnologia.
+
+Meu foco está na combinação entre **Desenvolvimento Web, Automação de Processos e Qualidade de Software**, buscando entender não apenas como desenvolver uma solução, mas também como **testá-la, identificar problemas e melhorar continuamente sua qualidade**.
+
+Tenho interesse especial por:
+
+- 🌐 Desenvolvimento Web
+- ⚙️ Automação de processos e fluxos
+- 🧪 Qualidade de Software e testes
+- 🤖 Automação e novas tecnologias
+- 🧩 Soluções Low-Code
+- 🧠 Lógica de programação e resolução de problemas
+- 📚 Aprendizado contínuo
+
+Gosto de transformar problemas em soluções práticas, entender como os sistemas funcionam e buscar maneiras de tornar processos mais eficientes, confiáveis e organizados.
+
+> 🚀 **Meu objetivo é evoluir constantemente, transformando conhecimento em projetos e experiência prática.**
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🧪 QA & Gestão
+
+<p>
+
+<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
+<img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC" />
+
+<img src="https://img.shields.io/badge/Gherkin-111111?style=for-the-badge&logo=cucumber&logoColor=23D96C" />
+
+<img src="https://img.shields.io/badge/BDD-111111?style=for-the-badge&logo=cucumber&logoColor=23D96C" />
+
+<img src="https://img.shields.io/badge/Kanban-111111?style=for-the-badge&logo=trello&logoColor=00A4EF" />
+
+</p>
+
+---
+
+# 🧪 Qualidade de Software
+
+Tenho direcionado parte dos meus estudos para **QA e testes de software**, desenvolvendo conhecimentos em:
+
+- ✅ Testes funcionais
+- 🔍 Testes exploratórios
+- 📝 Criação de casos e cenários de teste
+- 🐞 Identificação e documentação de bugs
+- 📋 Validação de requisitos
+- 🔄 BDD
+- 🥒 Gherkin
+- 🔌 Testes de API com Postman
+- 📊 Testes de desempenho com JMeter
+- 🛠️ Análise utilizando DevTools
+- 🤖 Fundamentos de automação de testes
+
+Meu objetivo é unir **desenvolvimento + qualidade**, entendendo o software desde sua construção até sua validação.
+
+---
+
+# ⚙️ Automação & Low-Code
+
+Tenho interesse crescente em **automação de processos e soluções Low-Code**, principalmente na criação de fluxos capazes de reduzir tarefas repetitivas e tornar processos mais eficientes.
+
+Atualmente estou expandindo meus conhecimentos nessa área, buscando compreender:
+
+```text
+Problema
+   ↓
+Análise do processo
+   ↓
+Definição da solução
+   ↓
+Automação
+   ↓
+Testes
+   ↓
+Validação
+   ↓
+Melhoria contínua
