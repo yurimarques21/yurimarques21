@@ -1,8 +1,7 @@
 <div align="center">
+<img src="./banner-github.png" width="100%" alt="Banner do perfil de Yuri Marques">
 
-# 👋 Olá, eu sou Yuri Marques!
-
-### 💻 Estudante de ADS | Desenvolvimento Web • Automação • QA
+# 👋 Olá!
 
 <p align="center">
   <strong>Desenvolvimento Web • Automação • QA • Testes de Software</strong>
