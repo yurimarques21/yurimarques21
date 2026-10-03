@@ -4,16 +4,26 @@
 
 ### 💻 Estudante de ADS | Desenvolvimento Web • Automação • QA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web;Qualidade+de+Software;Automação+de+Processos;Testes+e+Tecnologia;Sempre+aprendendo+algo+novo" alt="Typing Animation">
+<p align="center">
+  <strong>Desenvolvimento Web • Automação • QA • Testes de Software</strong>
+</p>
 
-<br><br>
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  <br>
+  💻 Construindo projetos e aprimorando minhas habilidades em tecnologia
+  <br>
+  🧪 Foco atual em Qualidade de Software e Testes
+</p>
+
+<br>
 
 <a href="https://github.com/yurimarques21">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yuri-marques1">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 </div>
