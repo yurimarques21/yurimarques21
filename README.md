@@ -4,10 +4,7 @@
 
 ### 💻 Estudante de ADS | Desenvolvimento Web • Automação • QA
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web;Qualidade+de+Software;Automação+de+Processos;Testes+e+Tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80"
-  alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web;Qualidade+de+Software;Automação+de+Processos;Testes+e+Tecnologia;Sempre+aprendendo+algo+novo" alt="Typing Animation" />
 
 <br><br>
 
