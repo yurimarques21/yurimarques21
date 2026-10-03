@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://github.com/yurimarques">
+<a href="https://github.com/yurimarques21">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/yuri-marques1">
