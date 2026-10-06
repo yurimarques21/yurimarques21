@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./banner-github.png" width="100%" alt="Banner do perfil de Yuri Marques">
 
-# 👋 Olá!
+# 👋Olá!
 
 <p align="center">
   <strong>Desenvolvimento Web • Automação • QA • Testes de Software</strong>
